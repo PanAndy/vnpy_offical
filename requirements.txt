@@ -31,4 +31,3 @@ vnpy_ctptest
 vnpy_tushare
 vnpy_postgresql
 vnpy_rqdata
-vnpy_tqsdk
