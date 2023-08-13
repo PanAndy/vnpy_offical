@@ -13,14 +13,14 @@ plotly==5.10.0
 importlib-metadata==4.12.0
 tqdm==4.64.1
 backports.zoneinfo; python_version < '3.9'
-vnpy_ctastrategy
-vnpy_ctabacktester
+vnpy_ctastrategy==1.1.5
+vnpy_ctabacktester==1.1.1
 vnpy_spreadtrading
 vnpy_algotrading
 vnpy_optionmaster
 vnpy_portfoliostrategy
 vnpy_scripttrader
-vnpy_chartwizard
+vnpy_chartwizard==1.0.3
 vnpy_datamanager
 vnpy_portfoliomanager
 vnpy_ctp
@@ -31,4 +31,3 @@ vnpy_ctptest
 vnpy_tushare
 vnpy_postgresql
 vnpy_rqdata
-vnpy_tqsdk
