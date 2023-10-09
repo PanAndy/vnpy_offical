@@ -6,7 +6,7 @@ shift 2
 
 
 [[ -z $python ]] && python=python3
-[[ -z $pypi_index ]] && https://pypi.tuna.tsinghua.edu.cn/simple
+[[ -z $pypi_index ]] && pypi_index=https://pypi.tuna.tsinghua.edu.cn/simple
 
 $python -m pip install --upgrade pip wheel --index $pypi_index
 
